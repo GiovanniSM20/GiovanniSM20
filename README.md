@@ -1,6 +1,6 @@
 ### Hey, I'm Giovanni Martins! 👋
 
-Mobile Developer at PontoCare
+Software Engineer at PontoCare
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GiovanniSM20)](https://github.com/GiovanniSM20)
 
