@@ -1,12 +1,8 @@
 ### Hey, I'm Giovanni Martins! 👋
 
-Software Engineer at PontoCare
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GiovanniSM20)](https://github.com/GiovanniSM20)
+Software Engineer at [@Anlix](https://github.com/anlix-io)
 
 ### Find me elsewhere 🌎
 
-[📸: Instagram](https://instagram.com/stultusgi) <br>
-[🐦: Twitter](https://twitter.com/giovannistultus) <br>
-[💼: LinkedIn](https://www.linkedin.com/in/giovanni-martins) <br>
-[📫: Telegram](https://t.me/gnugmartins)
+You can send an e-mail for me at: giovanni@member.fsf.org </br>
+Also can contact me more directly at [📫: Telegram](https://t.me/gnugmartins)
